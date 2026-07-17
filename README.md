@@ -86,14 +86,6 @@ This project demonstrates:
 * Performing basic arithmetic operations
 * Improving problem-solving skills in C
 
-## 🔮 Future Improvements
-
-* Add modulus (`%`) operation
-* Add exponentiation
-* Improve input validation
-* Add a calculation history feature
-* Build a scientific calculator version
-
 ## 👨‍💻 Author
 
 **Priyanshu**
